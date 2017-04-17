@@ -1,0 +1,189 @@
+/*  
+Template Name: mlpdesign09 -- Green Zone
+Author:webmasterneo, MLP Design
+Author URI: http://www.mlpdesign.net/
+*/
+
+/* Global Settings */
+body
+{	background:url(images/bg-body.gif) repeat-x #000;
+	color:#333;
+	font:normal 11pt Arial,sans-serif; 
+	text-align:center;
+	padding:0;
+	margin:0;	}
+	
+h1,h2,h3,p,li
+{	text-align:left;	}
+
+a
+{	background-color:inherit;
+	color:#333;
+	text-decoration:none; }
+
+a:hover
+{	text-decoration:underline; }	
+	
+img
+{	border:0;}
+
+blockquote
+{	background:url(images/bg-quote.gif) 0 0 no-repeat #fff;
+	color:#690;
+	font:italic 15px "Times New Roman",serif; 
+	padding:2px 20px 2px 65px;	}	
+	
+/* Wrapper */
+#wrap
+{	background-color:#fff;
+	color:#000;
+	width:800px;
+	padding:0;
+	margin:30px auto 15px auto; }
+	
+/* Header */
+#header
+{	background:url(images/bg-header.gif) 0 10px repeat-x;
+	background-color:inherit;
+	color:#fff;
+	width:780px;
+	height:230px;
+	padding:45px 0 0 0;
+	margin:0 auto;	}
+
+#header h1
+{	font:bold 30pt Arial,sans-serif;	
+	text-align:center;
+	padding:5px 0 12px 0;
+	margin:0 auto; }
+
+#header a
+{	background-color:inherit;
+	color:#fff;
+	text-decoration:none; }
+	
+#header p
+{	text-align:center;
+	margin:0 auto -17px auto; }
+	
+ul#menu
+ { 	padding:0;
+	margin:100px auto 0 auto; }
+
+ul#menu li  
+ { 	padding:0 10px;
+	display: inline; }
+   
+ul#menu li a
+{	background-color:inherit;
+	color:#333;
+	font-weight:bold;
+	text-decoration:none;
+	padding:3px 10px;}
+
+ul#menu li a:hover,ul#menu li a.current
+{	background-color:#fff;
+	color:#000;	}
+	
+/* Content */
+#content
+{	text-align:left;
+	width:750px;
+	padding:0 25px 10px 25px;
+	margin:0 auto;	}
+	
+#content h2
+{	font:bold 14pt Arial,sans-serif;
+	padding:0;
+	margin:0 auto; }	
+
+#content h3
+{	background-color:inherit;
+	color:#690;
+	font:bold 12pt Arial,sans-serif;	
+	padding:0;	}
+
+#content span.author
+{	font:normal 8pt Arial,Helvetica,sans-serif;
+	background-color:inherit;
+	color:#666;	}
+
+#content span.author a
+{	background-color:inherit;
+	color:#999;
+	text-decoration:none;
+	padding:0 3px; }
+
+#content span.author a:hover
+{	background-color:#690;
+	color:#fff;	}
+
+#content p a
+{	background-color:inherit;
+	color:#690;
+	text-decoration:underline;	} 	
+	
+#content p
+{	text-align:justify;
+	line-height:1.5em; }
+	
+#content li
+{	line-height:1.5em;	}
+
+#content li a
+{	background-color:inherit;
+	color:#690;
+	text-decoration:none;	}
+
+#content li a:hover
+{	text-decoration:underline; }
+
+#content ul
+{	list-style:none; }
+	
+#content ul li
+{	background:url(images/ico-list.gif) 0 5px no-repeat;
+	padding:0 0 0 20px;
+	margin:0; }	
+
+#content .post
+{	padding:0 0 20px 0;
+	margin:auto;	}
+
+/* Footer */	
+#footer
+{	background:url(images/bg-footer.gif) 0 0 repeat-x;
+	width:780px;
+	height:38px;
+	text-align:center;
+	padding:0 ;
+	margin:0 auto;	}
+
+#footer a
+{	background-color:inherit;
+	color:#fff;	
+	text-decoration:none;	}
+	
+#footer .notice
+{	background-color:inherit;
+	color:#eee;
+	font:normal 11px Arial,Verdana,sans-serif;
+	padding-top:5px;}
+
+/* Attribution: Under Creative Commons, Attribution should not be removed or hidden */
+#attribution
+{	background-color:inherit;
+	color:#585;
+	width:800px;
+	font:normal 11px Arial,Verdana,sans-serif;
+	text-align:center;
+	padding:0 0 10px 0;
+	margin:0 auto;	}
+
+#attribution a
+{	background-color:inherit;
+	color:#585;
+	text-decoration:none;	}
+	
+#attribution a:hover
+{	color:#999;	}
